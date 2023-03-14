@@ -1,0 +1,5 @@
+s = int(input())
+a = (s//6)
+b = ((s//6)*4)
+c = (s//6)
+print (a), (b), (c) 
